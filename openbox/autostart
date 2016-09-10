@@ -1,0 +1,21 @@
+nitrogen --restore &
+volumeicon &
+compton --config ~/.config/compton.conf -b &
+tint2 &
+tint2 -c /home/scosh/.config/tint2/clock/green_autohide_clock.tint2rc &
+plank &
+#conky -c ~/.config/conky.conf &
+lxpolkit &
+#yabar &
+
+# set caps-lock as the compose key to type umlauts and such
+setxkbmap -option compose:caps
+
+# turn off system error beep
+xset -b 
+
+# turn off screen going dark after 10 mins
+xset -dpms s off
+
+# run a custom script that supplies the animated loop for the desktop wallpaper using gifsicle
+bash /home/scosh/Pictures/Wallpapers/GIF/gifbg.sh /home/scosh/Pictures/Wallpapers/GIF/tumblr_nn6araxC8F1r2geqjo1_540.gif

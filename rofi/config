@@ -1,0 +1,15 @@
+rofi.lines: 5
+rofi.bw: 3
+rofi.separator-style: none
+rofi.hide-scrollbar: true
+rofi.padding: 10
+rofi.opacity: 95
+rofi.sidebar-mode: true
+rofi.width: 25
+rofi.modi: run,window,teiler.sh
+
+rofi.color-enabled: true
+rofi.color-window: #333333, #333333, #444444
+rofi.color-normal: #333333, #dddddd, #444444, #c5dbab, #333333
+rofi.color-active: #333333, #dddddd, #444444, #c5dbab, #333333
+rofi.color-urgent: #333333, #fda626, #444444, #fda626, #333333
