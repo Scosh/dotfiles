@@ -33,3 +33,7 @@
 ![7](https://github.com/Scosh/dotfiles/blob/master/screenshots/thunar.png)
 
 *thunar*
+
+![8](https://github.com/Scosh/dotfiles/blob/master/screenshots/fullscreen-firefox.png)
+
+*maximized firefox with an auto-hide clock tint2 instance in the top right corner*
