@@ -10,10 +10,10 @@
 *clean with some apps open on the other workspaces*
 
 
-
 ![3](https://github.com/Scosh/dotfiles/blob/master/screenshots/tint2.png)
 
 *tint2*
+
 
 ![4](https://github.com/Scosh/dotfiles/blob/master/screenshots/openbox-menu.png)
 
@@ -33,6 +33,7 @@
 ![7](https://github.com/Scosh/dotfiles/blob/master/screenshots/thunar.png)
 
 *thunar*
+
 
 ![8](https://github.com/Scosh/dotfiles/blob/master/screenshots/fullscreen-firefox.png)
 
