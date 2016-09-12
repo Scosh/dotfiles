@@ -24,8 +24,11 @@
 
 *rofi*
 
+![6.1](https://github.com/Scosh/dotfiles/blob/master/screenshots/terminals.png)
 
-![6](https://github.com/Scosh/dotfiles/blob/master/screenshots/gnome-terminal.png)
+*2 open terminals and a different wallpaper*
+
+![6.2](https://github.com/Scosh/dotfiles/blob/master/screenshots/gnome-terminal.png)
 
 *gnome terminal*
 
