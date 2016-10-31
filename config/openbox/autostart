@@ -1,12 +1,13 @@
 nitrogen --restore &
 volumeicon &
-compton --config ~/.config/compton.conf -b &
+compton &
+#compton --config ~/.config/compton.conf -b &
 tint2 &
 tint2 -c /home/scosh/.config/tint2/clock/green_autohide_clock.tint2rc &
 plank &
 #conky -c ~/.config/conky.conf &
 lxpolkit &
-#yabar &
+dropbox &
 
 # set caps-lock as the compose key to type umlauts and such
 setxkbmap -option compose:caps

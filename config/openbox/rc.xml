@@ -1,4 +1,3 @@
-<?xml version="1.0"?>
 <openbox_config xmlns="http://openbox.org/3.4/rc">
   <resistance>
     <strength>10</strength>
@@ -40,7 +39,7 @@
                   'Active' - where the active window is -->
   </placement>
   <theme>
-    <name>Numix-Green (copy 1)</name>
+    <name>Numix-Frost-Green-Openbox</name>
     <titleLayout>CDL</titleLayout>
     <!--
       available characters are NDSLIMC, each can occur at most once.
@@ -277,7 +276,7 @@
       </action>
     </keybind>
     <keybind key="W-f">
-      <action name="ToggleMaximizeFull"/>
+      <action name="ToggleFullscreen"/>
     </keybind>
     <keybind key="W-Return">
       <action name="Execute">
@@ -361,7 +360,7 @@
       <action name="Desktop"/>
     </keybind>
     <keybind key="W-m">
-      <action name="Move"/>
+      <action name="ToggleMaximizeFull"/>
     </keybind>
   </keyboard>
   <mouse>
