@@ -41,3 +41,9 @@
 ![8](https://github.com/Scosh/dotfiles/blob/master/screenshots/fullscreen-firefox.png)
 
 *maximized firefox with an auto-hide clock tint2 instance in the top right corner*
+
+#### Disclaimer
+Please don't just blindly copy these files into your Linux system. These files are tailored to my needs. If you for instance don't have Dropbox installed and use my autostart, which invokes Dropbox, you will get errors. Only copy what you really need, and study the rest carefully. If you're new to Unix customization, check out [/r/unixporn](https://www.reddit.com/r/unixporn/).
+
+Happy ricing
+Scosh
