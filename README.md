@@ -1,4 +1,4 @@
-![C-3PO](https://github.com/Scosh/dotfiles/blob/master/Cover.png)
+![C-3PO](https://github.com/Scosh/dotfiles/blob/master/cover.png)
 
 # Scosh's dotfiles for "C3PO"
 ![1](https://github.com/Scosh/dotfiles/blob/master/screenshots/clean-startup.png)
